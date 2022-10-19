@@ -1,3 +1,3 @@
-/node_modules
-/uploadxlsxandcsv
-/backend/config/config.env
+node_modules
+uploadxlsxandcsv
+config/config.env
