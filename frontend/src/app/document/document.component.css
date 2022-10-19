@@ -1,0 +1,15 @@
+.file-input {
+    display: none;
+  }
+ 
+  
+  .example-margin {
+    margin: 0 10px;
+    /* background-color: blue; */
+  }
+
+  .btn{
+    margin-top:"20px";
+    background-color: green; 
+  }
+  
